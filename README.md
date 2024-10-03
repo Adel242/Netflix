@@ -1,3 +1,2 @@
 # Netflix
-test register push... test test2 
-test 4
+esto es un test para comprobar el registro de este desdde slack
