@@ -1,2 +1,2 @@
 # Netflix
-Nuevo test con mixpanel 1
+nuevo test 2 git commit para mixpanel
